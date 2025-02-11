@@ -4,7 +4,7 @@
 
 ## Features
 - 🔍 **Document Retrieval**: Uses **FAISS vector store** for fast and efficient document search.
-- 🧠 **AI-Powered Answers**: Utilizes **Groq LLM (deepseek-llm-67b-chat)** for generating context-aware responses.
+- 🧠 **AI-Powered Answers**: Utilizes **Groq LLM (mixtral-8x7b-32768)** for generating context-aware responses.
 - 📁 **Source Referencing**: Displays **page numbers** and a snippet from source documents for every response.
 - 🌐 **Streamlit Interface**: Simple and interactive UI built with **Streamlit** for easy user interaction.
 
