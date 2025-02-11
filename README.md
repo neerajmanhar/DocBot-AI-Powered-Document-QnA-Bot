@@ -27,6 +27,8 @@
 ```bash
 git clone https://github.com/your-username/DocBot.git
 cd DocBot
+pip install pipenv --user
+pipenv shell
 pip install -r requirements.txt
 streamlit run docbot.py
 ```
