@@ -1,0 +1,4 @@
+vectorstore/
+Pipfile
+Pipfile.lock
+.env
