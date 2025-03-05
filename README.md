@@ -30,7 +30,7 @@ cd DocBot
 pip install pipenv --user
 pipenv shell
 pip install -r requirements.txt
-streamlit run docbot.py
+streamlit run docbot.py --server.fileWatcherType none
 ```
 
 ## Future Improvements
