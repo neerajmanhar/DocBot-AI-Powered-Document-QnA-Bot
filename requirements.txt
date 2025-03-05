@@ -1,5 +1,7 @@
 langchain
 langchain-community
 langchain-huggingface
+langchain_groq
 faiss-cpu
 pypdf
+streamlit
