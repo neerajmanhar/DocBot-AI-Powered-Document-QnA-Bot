@@ -1,7 +1,7 @@
-langchain
-langchain-community
-langchain-huggingface
-langchain_groq
-faiss-cpu
-pypdf
-streamlit
+faiss-cpu==1.10.0
+langchain-community==0.3.19
+langchain-groq==0.2.4
+langchain-huggingface==0.1.2
+langchain==0.3.20
+pypdf==5.3.0
+streamlit==1.42.0
